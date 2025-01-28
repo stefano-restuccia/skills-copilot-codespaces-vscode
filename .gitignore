@@ -35,3 +35,8 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+/.idea/.gitignore
+/.idea/git_toolbox_blame.xml
+/.idea/modules.xml
+/.idea/skills-copilot-codespaces-vscode.iml
+/.idea/vcs.xml
